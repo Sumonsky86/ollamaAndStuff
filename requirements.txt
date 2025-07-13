@@ -1,0 +1,5 @@
+torch
+google-cloud-texttospeech
+pydub
+soundfile
+requests
